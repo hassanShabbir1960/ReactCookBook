@@ -1,0 +1,2 @@
+::1 - - [11/Feb/2020:07:21:12 +0000] "POST /api/v1/register HTTP/1.1" 400 21 "-" "PostmanRuntime/7.22.0"
+::1 - - [11/Feb/2020:07:21:21 +0000] "POST /api/v1/register HTTP/1.1" 456 21 "-" "PostmanRuntime/7.22.0"
