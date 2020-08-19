@@ -17,3 +17,6 @@ in view the number of persons added by the customer and the number of persons be
 served by the single serving of the food.
 
  Finally, the system asks about the address where the food has to be delivered.
+
+
+Just visit the platform ( https://woocommerce-69dfb.web.app ) if you don't want to go through the hassle of installation.
